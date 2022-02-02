@@ -1,0 +1,30 @@
+body
+{
+ font-family: 'Rowdies', cursive;
+ background-size: cover;
+ color:white ;
+}
+
+#play
+{
+ background-color: white;
+ color: black;
+ font-family: 'Rowdies', cursive;
+}
+
+canvas
+{
+ border-style: dotted;
+ border-color:white;
+ 
+}
+
+#footer
+{
+ bottom:0;
+ position:fixed;
+ background-color:white;
+ width:100%;
+ text-align: center;
+ color:black;
+}
